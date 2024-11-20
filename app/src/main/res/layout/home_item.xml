@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+   android:id="@+id/homeCard"
+    android:layout_width="120dp"
+    android:layout_height="120dp"
+    android:layout_margin="30dp"
+    app:cardCornerRadius="9dp"
+    app:cardElevation="5dp">
+
+   <!--4.XML implementation of Card Layout (single row in list)-->
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/constraintlayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+   <ImageView
+       android:id="@+id/category_img"
+       android:layout_width="match_parent"
+       android:layout_height="90dp"
+       android:foregroundGravity="center"
+       android:scaleType="centerCrop"
+       android:src="@drawable/breakfast"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+      <androidx.constraintlayout.widget.ConstraintLayout
+          android:id="@+id/constraintlayout2"
+          android:layout_width="match_parent"
+          android:layout_height="110dp"
+          app:layout_constraintBottom_toBottomOf="parent"
+          >
+
+         <TextView
+             android:id="@+id/category_title"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="bottom|center_vertical"
+             android:text="Breakfast"
+             android:textColor="@color/darkgray"
+             android:textSize="14dp"
+             android:textStyle="bold"
+             app:layout_constraintBottom_toBottomOf="@+id/constraintlayout2" />
+
+
+      </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>
+
