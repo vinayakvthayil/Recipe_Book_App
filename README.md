@@ -1,6 +1,6 @@
-# 🍽️ My Recipe Book 📚
+# 🍽️Recipe Book 📚
 
-Welcome to **My Recipe Book**, a beautifully designed mobile app built with **Android Studio** and **Java**. This app helps you store, organize, and search for your favorite recipes all in one place. Whether you're a beginner cook or a seasoned chef, My Recipe Book makes it easy to keep your culinary creations organized.
+Welcome to **My Recipe Book**, a beautifully designed mobile app built with **Android Studio** and **Java**. This app helps you store, organize, and search for your favorite recipes all in one place. Whether you're a beginner cook or a seasoned chef,Recipe Book makes it easy to keep your culinary creations organized.
 
 ---
 
