@@ -1,6 +1,6 @@
-# 🍽️Recipe Book 📚
+# 🍽️Recipe Book App 📚
 
-Welcome to **My Recipe Book**, a beautifully designed mobile app built with **Android Studio** and **Java**. This app helps you store, organize, and search for your favorite recipes all in one place. Whether you're a beginner cook or a seasoned chef,Recipe Book makes it easy to keep your culinary creations organized.
+Welcome to **My Recipe Book App**, a beautifully designed mobile app built with **Android Studio** and **Java**. This app helps you store, organize, and search for your favorite recipes all in one place. Whether you're a beginner cook or a seasoned chef,Recipe Book App makes it easy to keep your culinary creations organized.
 
 ---
 
@@ -25,7 +25,7 @@ Welcome to **My Recipe Book**, a beautifully designed mobile app built with **An
 
 ## 🚀 Installation
 
-To get started with **My Recipe Book**, follow these simple steps:
+To get started with **My Recipe Book App**, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
@@ -45,7 +45,7 @@ To get started with **My Recipe Book**, follow these simple steps:
 
 ## 📝 Usage
 
-1. Open **My Recipe Book** on your Android device.
+1. Open **My Recipe Book App** on your Android device.
 2. Add a new recipe using the **Add Recipe** feature.
 3. Browse through your saved recipes, search by ingredients, or view detailed recipe information.
 4. Edit or delete any existing recipe as needed.
